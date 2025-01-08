@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+
+# Generated configuration
+sdkconfig
+
+# IDE files
+.vscode/
